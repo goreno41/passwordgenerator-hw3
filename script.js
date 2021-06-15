@@ -44,7 +44,7 @@ function passwordGenerate (){
     }
 
     if(charactersAll.length===0){
-        alert("You must confirm at least type of character for your password");
+        alert("You must select 'OK' for at least one type of character for your password");
     }
 
     else{
