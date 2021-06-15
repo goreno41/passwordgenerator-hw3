@@ -9,6 +9,8 @@ var alphaUppercaseArray = alphaUppercase.split ("");
 var numbersArray = numbers.split ("");
 var specialCharArray = specialChar.split ("");
 
+window.onload = alert("click 'Generate Password' to begin")
+
 //.. Function to generate password
 
 function passwordGenerate (){
